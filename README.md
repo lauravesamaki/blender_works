@@ -15,3 +15,20 @@ To improve my Blender skills and document my learning journey.
 ## Tools
 
 * Blender
+
+## Pictures And Animations
+
+### Pictures
+
+* Sushi  
+![Sushi](./assets/pictures/sushi1.png)
+  
+* Noodle Shop  
+![Noodle Shop](./assets/pictures/noodle_shop.png)
+
+### Animations
+
+Snippets from animations
+
+* Noodle Shop Animation:
+![Noodle Shop](./assets/gifs/noodle_shop.gif)
